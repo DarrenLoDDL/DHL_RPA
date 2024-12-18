@@ -1,0 +1,4 @@
+change to this directoory
+add the ong to this directory as well
+run the command: python png2svg.py
+have fun :). Issue is that is the immage is not good quality, then the scaling is poor.
